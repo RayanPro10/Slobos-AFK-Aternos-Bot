@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "bot-account": {KryptBot
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+  "server": {ClanKryptCoralMC.aternos.me:19163
+    "ip": "ClanKryptCoralMC.aternos.me",
+    "port": 191663,
     "version": "",
     "try-creative": false
   },
