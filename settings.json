@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+  "server": {ClanKryptCoralMC.aternos.me
+    "ip": "ClanKryptCoralMC.aternos.me",
+    "port": 19163,
     "version": "",
     "try-creative": false
   },
